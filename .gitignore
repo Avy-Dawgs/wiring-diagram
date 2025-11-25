@@ -1,4 +1,5 @@
 
+*.pdf
 *.bak
 *.kicad_sch.bak
 *.kicad_sch-bak
